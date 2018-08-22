@@ -1,0 +1,9 @@
+.headerBand.bg-light{
+    background-color: #1f1f1f!important;
+}
+.headerBand .navbar-brand{
+    color: #fff;
+}
+.nav-link{
+    color:#fff !important;
+}
